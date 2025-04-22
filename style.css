@@ -56,7 +56,7 @@ h1 {
    font-size: 18px;
    color: #E5E7EB;
    padding: 6px 24px;
-   border-radius: 10px;
+   border-radius: 7px;
    border: none;
 }
 
@@ -130,3 +130,38 @@ h2 {
     font-size: 18px;
 }
 
+/* CTA Section */
+
+.cta-section {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+    padding-top: 30px;
+}
+
+.cta {
+    width: 960px;
+    background-color: #3882F6;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    color: #F9FAF8;
+    padding: 30px 0;
+}
+
+.cta .sign-up {
+    border: 2px solid #F9FAF8;
+}
+
+.cta-info p {
+    margin: 0;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+h3 {
+    margin: 5px 0;
+}
