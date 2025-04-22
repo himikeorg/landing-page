@@ -101,3 +101,32 @@ h2 {
     border-radius: 10px;
 }
 
+/* Quote section */
+
+.quote-section {
+    background-color:#E5E7EB;
+}
+
+.quote-content {
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 50px 0 70px 0;
+}
+
+.quote-content p {
+    font-size: 32px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+    margin-bottom: 0;
+    padding-left: 20px;
+}
+
+.credit {
+    text-align: right;
+    padding-right: 30px;
+    padding-top: 5px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
